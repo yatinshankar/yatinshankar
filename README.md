@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Yatin 👋
+
+🔧 I'm passionate about core electronics and am actively working to get started in the field.
+📚 This page currently serves as a place to post my noob ET projects on.
+
+🔭 I’m currently working on a project to charecterise ADCs
+
 
 <!--
 **yatinshankar/yatinshankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
